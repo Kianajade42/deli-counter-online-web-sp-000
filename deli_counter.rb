@@ -1,15 +1,3 @@
-=[]
-def line(katz_deli)
-  if == []
-  puts "The line is empty"
-end
- end
- def take_a_number
- end
-
-def now_serving
-end
-
 def line(katz_deli)
   if katz_deli.empty?
     puts "The line is currently empty."
