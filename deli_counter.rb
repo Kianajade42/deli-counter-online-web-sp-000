@@ -1,5 +1,5 @@
 katz_deli=[]
-def line
+def line(katz_deli)
   if katz_deli == []
   puts "There is nobody in line"
 else
