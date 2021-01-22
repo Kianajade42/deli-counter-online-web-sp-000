@@ -1,6 +1,6 @@
-deli_counter=[]
+yeild_control=[]
 def line(katz_deli)
-  if deli_counter == []
+  if yeild_control == []
   puts "The line is empty"
 end
  end
